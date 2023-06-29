@@ -2,6 +2,7 @@
 
 # 知策政策检索系统 ZhiCeSearch
 
+![ZhiCeSearch](https://github.com/BaoWHO/Dungeon/blob/main/Images/ZhiCeSearch.jpg)
 
 ## ES 索引字段表
 
